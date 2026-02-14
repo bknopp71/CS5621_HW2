@@ -10,7 +10,7 @@ Images were collected from the Mindat.org database and organized into two binary
 
 
 
-The silver class includes native silver and related silver-bearing minerals identified with the following keywords:
+The silver class includes native silver and related silver-bearing minerals identified with the following keywords. A image distribution is not currently listed:
 
 - *Silver*
 - *Native silver*
@@ -36,7 +36,11 @@ The non-silver class is composed of approximately 70% hard negative images and 3
 - *Chalcopyrite*
 - *Molybdenite*
 
-## Metadataset
+All images from both datasets follow the same labeling scheme (image0, image1, …). This naming convention is used to match each image to its corresponding metadata.
+  
+## Metadata
+The metadada folder stores 
+<img width="558" height="332" alt="image" src="https://github.com/user-attachments/assets/483ef54e-44f1-4de3-835e-01d7238e9cf5" />
 
 ## Code
 - Python
