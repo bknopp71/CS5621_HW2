@@ -29,5 +29,5 @@ Brent Knopp
 Computer Science, Data Science Program 
 Center for Intelligent Industrial Robotics 
 University of Idaho 
-Coeur d'Alene, Idaho 
+Coeur d'Alene, Idaho<bk>
 Email: knop8939@vandals.uidaho.edu 
