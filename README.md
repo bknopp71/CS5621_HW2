@@ -1,9 +1,9 @@
 # Silver Detection Machine Learning Project
 
 ## Overview
-This dataset was created to support research and educational applications in machine learning–based mineral classification, specifically the detection of silver-bearing minerals from photographic images. It consists of **3,869 silver images** and **16,695 non-silver images**, for a total of **20,564 images**. This repository is organized into three folders: Image Dataset, Metadata, and Code. The Image Dataset folder contains all images in JPEG format, the Metadata folder stores descriptive information for each image, and the Code folder includes the Python scripts used to collect and process the dataset. All images were obtained from the Mindat database, a resource specializing in mineralogical information, and are used solely for educational purposes [1].
+This dataset was created to support research and educational applications in machine learning–based mineral classification, specifically the detection of silver-bearing minerals from photographic images. It consists of **3,869 silver images** and **16,695 non-silver images**, for a total of **20,564 images**. This repository is organized into three folders: Datat, Metadata, and Code. The Datat folder contains all mineral images in JPEG format, the Metadata folder stores descriptive information for each image, and the Code folder includes the Python scripts used to collect and process the dataset. All images were obtained from the Mindat database, a resource specializing in mineralogical information, and are used solely for educational purposes [1].
 
-## Dataset
+## Data
 Images were collected from the Mindat.org database and organized into:
 - silver/
 - non_silver/
@@ -14,16 +14,15 @@ The non-silver class is composed of approximately 70% hard negative images and 3
 
 Metadata was stored in CSV and JSON formats.
 
-## Methods
-- Data preprocessing using Python
-- Model training using CNN / Machine Learning classifiers
-- Train/Validation/Test split: 70% / 15% / 15%
+## Metadataset
 
-## Tools Used
+## Code
 - Python
 - Scikit-learn
 - Google Colab
 - GitHub for version control
+
+## Reference
 
 ## Author
 Brent Knopp  
