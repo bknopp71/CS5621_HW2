@@ -26,6 +26,8 @@ Metadata was stored in CSV and JSON formats.
 
 ## Author
 Brent Knopp
+
+Brent Knopp
 Computer Science, Data Science Program
 Center for Intelligent Industrial Robotics 
 University of Idaho
