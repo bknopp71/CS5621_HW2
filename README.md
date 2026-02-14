@@ -23,6 +23,7 @@ Metadata was stored in CSV and JSON formats.
 - GitHub for version control
 
 ## Reference
+[1] Hudson Institute of Mineralogy, “Mindat.org – The Mineral Database.” [Online]. Available: https://www.mindat.org. Accessed: Feb. 14, 2026.
 
 ## Author
 Brent Knopp<br>
