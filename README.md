@@ -10,6 +10,20 @@ Images were collected from the Mindat.org database and organized into:
 - 
 The silver class includes native silver and related silver-bearing minerals identified using keywords such as *silver, native silver, argentum, argentite, chlorargyrite, proustite, pyrargyrite, stephanite, polybasite, pearceite, miargyrite, and freibergite*.
 
+- *Silver*
+- *Native silver*
+- *Argentum*
+- *Argentite*
+- *Chlorargyrite*
+- *Chalcopyrite*
+- *Proustite*
+- *Pyrargyrite*
+- *Stephanite*
+- *Polybasite*
+- *Pearceite*
+- *Miargyrite*
+- *Freibergite*
+
 The non-silver class is composed of approximately 70% hard negative images and 30% easy negative images to improve model robustness; hard negatives include visually similar minerals such as *galena, pyrite, hematite, graphite, stibnite, sphalerite, chalcopyrite, and molybdenite*, which help reduce false positives during classification.
 
 - *Galena*
