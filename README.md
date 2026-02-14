@@ -40,7 +40,9 @@ All images from both datasets follow the same labeling scheme (image0, image1, â
   
 ## Metadata
 The metadada folder stores 
-<img width="558" height="332" alt="image" src="https://github.com/user-attachments/assets/483ef54e-44f1-4de3-835e-01d7238e9cf5" />
+<p align="left">
+  <img width="558" height="332" alt="image" src="https://github.com/user-attachments/assets/483ef54e-44f1-4de3-835e-01d7238e9cf5" />
+</p>
 
 ## Code
 - Python
