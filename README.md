@@ -12,6 +12,14 @@ The silver class includes native silver and related silver-bearing minerals iden
 
 The non-silver class is composed of approximately 70% hard negative images and 30% easy negative images to improve model robustness; hard negatives include visually similar minerals such as *galena, pyrite, hematite, graphite, stibnite, sphalerite, chalcopyrite, and molybdenite*, which help reduce false positives during classification.
 
+- *Galena*
+- *Pyrite*
+- *Hematite*
+- *Graphite*
+- *Stibnite*
+- *Chalcopyrite*
+- *Molybdenite*
+
 Metadata was stored in CSV and JSON formats.
 
 ## Metadataset
