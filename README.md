@@ -1,7 +1,7 @@
 # Silver Detection Machine Learning Project
 
 ## Overview
-This dataset was created to support research and educational applications in machine learning–based mineral classification, specifically the detection of silver-bearing minerals from photographic images. It consists of **3,869 silver images** and **16,695 non-silver images**, for a total of **20,564 training images**. This repository is divided into three folders: Image Dataset, Metadata, and Code. The Image Dataset folder contains all of the images in JPEG format. The Metadata folder contains all of the metadata for each image. The Code folder includes the Python scripts used to gather this dataset. All images were obtained from the Mindat database, a resource specializing in mineralogical information, and are used solely for educational purposes [1].
+This dataset was created to support research and educational applications in machine learning–based mineral classification, specifically the detection of silver-bearing minerals from photographic images. It consists of **3,869 silver images** and **16,695 non-silver images**, for a total of **20,564 training images**. This repository is organized into three folders: Image Dataset, Metadata, and Code. The Image Dataset folder contains all images in JPEG format, the Metadata folder stores descriptive information for each image, and the Code folder includes the Python scripts used to collect and process the dataset. All images were obtained from the Mindat database, a resource specializing in mineralogical information, and are used solely for educational purposes [1].
 
 ## Dataset
 Images were collected from the Mindat.org database and organized into:
