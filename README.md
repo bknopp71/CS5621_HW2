@@ -25,9 +25,9 @@ Metadata was stored in CSV and JSON formats.
 ## Reference
 
 ## Author
-Brent Knopp 
-Computer Science, Data Science Program 
+Brent Knopp
+Computer Science, Data Science Program
 Center for Intelligent Industrial Robotics 
-University of Idaho 
-Coeur d'Alene, Idaho<bk>
+University of Idaho
+Coeur d'Alene, Idaho
 Email: knop8939@vandals.uidaho.edu 
