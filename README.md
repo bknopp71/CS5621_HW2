@@ -39,11 +39,11 @@ The non-silver class is composed of approximately 70% hard negative images and 3
 Each image class has metadata stored in both CSV and JSON formats. The files are identical in content and follow the same labeling scheme. Each image has an associated set of metadata fields, as shown below.
   
 ## Metadata
-Each image class has metadata stored in both CSV and JSON formats. The files are identical in content and follow the same labeling scheme. Each image has an associated set of metadata fields, as shown below.
+All image classes have metadata stored in both CSV and JSON formats. The files are identical in content and follow the same labeling scheme. Each image has an associated set of metadata fields, as shown below.
 
 The metadada folder stores 
 <p align="left">
-  <img width="558" height="332" alt="image" src="https://github.com/user-attachments/assets/483ef54e-44f1-4de3-835e-01d7238e9cf5" />
+  <img width="566" height="295" alt="image" src="https://github.com/user-attachments/assets/28f7c591-84c3-4af7-a736-714f61754659" />
 </p>
 
 ## Code
