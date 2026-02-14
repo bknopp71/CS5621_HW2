@@ -7,7 +7,11 @@ This dataset was created to support research and educational applications in mac
 Images were collected from the Mindat.org database and organized into:
 - silver/
 - non_silver/
-- 
+
+<img width="481" height="255" alt="image" src="https://github.com/user-attachments/assets/0e2778fe-6d5c-46ea-9119-2329030b76b2" />
+
+
+
 The silver class includes native silver and related silver-bearing minerals identified using keywords such as *silver, native silver, argentum, argentite, chlorargyrite, proustite, pyrargyrite, stephanite, polybasite, pearceite, miargyrite, and freibergite*.
 
 - *Silver*
