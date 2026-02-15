@@ -59,6 +59,8 @@ This notebook performs automated data acquisition. It reads the Mindat image URL
 
 2. ***create_metadata_hw_2_final_BKnopp.ipynb***
 
+The other files can be ignored, as they are earlier versions used during development of the final code and retained only for backup purposes.
+
 This notebook validates the downloaded dataset and generates structured metadata. It checks file integrity, extracts image properties (dimensions, size, format), assigns class labels, and exports metadata into CSV and JSON formats. These files are used to link each image to its corresponding data record for machine learning workflows.
 
 ## Reference
