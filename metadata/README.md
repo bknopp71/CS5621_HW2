@@ -1,4 +1,4 @@
-## Metadata Files For Silver and Non-Silver image Datasets
+## Metadata Files For Silver and Non-Silver Image Datasets
 
 
 ## Silver Images:
