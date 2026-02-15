@@ -53,7 +53,7 @@ Both data structures store corresponding image data, with element 0 representing
 ## Code
 This project uses two Jupyter Notebooks to implement the data collection and validation workflow for the silver detection dataset.
 
-1. image_download_workflow.ipynb
+1. *create_image_data_hwk2.ipynb*
 
 This notebook performs automated data acquisition. It reads the Mindat image URL list, filters minerals into silver and non-silver classes, and programmatically downloads available JPEG images. The script includes error handling, logging, and class balancing logic (including hard and easy negatives) to construct the final dataset.
 
