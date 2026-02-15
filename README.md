@@ -47,10 +47,15 @@ The metadada folder stores
 </p>
 
 ## Code
-- Python
-- Scikit-learn
-- Google Colab
-- GitHub for version control
+This project uses two Jupyter Notebooks to implement the data collection and validation workflow for the silver detection dataset.
+
+1. image_download_workflow.ipynb
+
+This notebook performs automated data acquisition. It reads the Mindat image URL list, filters minerals into silver and non-silver classes, and programmatically downloads available JPEG images. The script includes error handling, logging, and class balancing logic (including hard and easy negatives) to construct the final dataset.
+
+2. dataset_validation_metadata.ipynb
+
+This notebook validates the downloaded dataset and generates structured metadata. It checks file integrity, extracts image properties (dimensions, size, format), assigns class labels, and exports metadata into CSV and JSON formats. These files are used to link each image to its corresponding data record for machine learning workflows.
 
 ## Reference
 [1] Hudson Institute of Mineralogy, “Mindat.org – The Mineral Database.” [Online]. Available: https://www.mindat.org. Accessed: Feb. 14, 2026.
