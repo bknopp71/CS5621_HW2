@@ -48,7 +48,7 @@ All image classes have metadata stored in both CSV and JSON formats. The files a
   <img width="566" height="295" alt="image" src="https://github.com/user-attachments/assets/28f7c591-84c3-4af7-a736-714f61754659" />
 </p>
 
-Both data structures store corresponding image data, with element 0 representing image_0 and element 1 representing image_1, continuing sequentially through the final image in the dataset.
+Both data structures store corresponding image data, with element 0 representing image_0 and element 1 representing image_1, continuing sequentially through the final image in the dataset. The metadata for silver images are stored in ***silver_metadata.csv*** and ***silver_metadata.json***, while the metadata for non-silver images are stored in ***non_silver_metadata.csv*** and ***non_silver_metadata.json***.
 
 ## Code
 This project uses two Jupyter Notebooks to implement the data collection and validation workflow for the silver detection dataset.
