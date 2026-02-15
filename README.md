@@ -39,7 +39,9 @@ The non-silver class is composed of approximately 70% hard negative images and 3
 - *Chalcopyrite*
 - *Molybdenite*
 
-Each image has corresponding metadata that provides a class label of 1 for silver and 0 for non-silver, along with the associated mineral name, which can be used directly in machine learning classification models. **Note:** All other CSV and JSON files in the data folder can be ignored, as they are archived files used during the creation of the image dataset.
+Each image has corresponding metadata that provides a class label of 1 for silver and 0 for non-silver, along with the associated mineral name, which can be used directly in machine learning classification models. 
+
+**Note:** All other CSV and JSON files in the data folder can be ignored, as they are archived files used during the creation of the image dataset.
 
 ## Metadata
 All image classes have metadata stored in both CSV and JSON formats. The files are identical in content and follow the same labeling scheme. Each image has an associated set of metadata fields, as shown below.
@@ -61,7 +63,7 @@ This notebook performs automated data acquisition. It reads the Mindat image URL
 
 This notebook validates the downloaded dataset and generates structured metadata. It checks file integrity, extracts image properties (dimensions, size, format), assigns class labels, and exports metadata into CSV and JSON formats. These files are used to link each image to its corresponding data record for machine learning workflows.
 
-*NOTE:* The other files can be ignored, as they are earlier versions used during development of the final code and retained only for backup purposes.
+**Note:**  The other files can be ignored, as they are earlier versions used during development of the final code and retained only for backup purposes.
 
 ## Reference
 [1] Hudson Institute of Mineralogy, “Mindat.org – The Mineral Database.” [Online]. Available: https://www.mindat.org. Accessed: Feb. 14, 2026.
