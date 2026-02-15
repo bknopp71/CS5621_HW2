@@ -1,8 +1,8 @@
 ## Metadata files (csv and json) for silver and nonsilver image datasets
 
 
-## Silver Images:  
-silver_metadata.csv
+## Silver Images:<br>
+silver_metadata.csv<br>
 silver_metadata.json
 ## Non-Silver Images:<br>
 non_silver_metadata.csv
