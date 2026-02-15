@@ -7,7 +7,7 @@ This dataset was created to support research and educational applications in mac
 
 
 ## Data
-Images were collected from the Mindat.org database and organized into two binary categories for classification: **silver** and **non_silver** images. The *silver* folder contains **3,869 JPEG images**, while the *non_silver* folder contains **16,695 JPEG images**. All image data are stored on Google OneDrive, and the data folder provides a direct link to the drive from the README.md file. 
+Images were collected from the Mindat.org database and organized into two binary categories for classification: **silver** and **non_silver** image class. The *silver_image* folder contains **3,869 JPEG images**, while the *non_silver_image* folder contains **16,695 JPEG images**. All image data are stored on Google OneDrive, and the data folder provides a direct link to the drive from the README.md file. 
 
 <img width="481" height="255" alt="image" src="https://github.com/user-attachments/assets/0e2778fe-6d5c-46ea-9119-2329030b76b2" /> <br>
 
