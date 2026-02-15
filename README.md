@@ -44,10 +44,11 @@ Each image class has metadata stored in both CSV and JSON formats. The files are
 ## Metadata
 All image classes have metadata stored in both CSV and JSON formats. The files are identical in content and follow the same labeling scheme. Each image has an associated set of metadata fields, as shown below.
 
-The metadada folder stores the following elwments.
 <p align="left">
   <img width="566" height="295" alt="image" src="https://github.com/user-attachments/assets/28f7c591-84c3-4af7-a736-714f61754659" />
 </p>
+
+Both data structures store corresponding image data, with element 0 representing image_0 and element 1 representing image_1, continuing sequentially through the final image in the dataset.
 
 ## Code
 This project uses two Jupyter Notebooks to implement the data collection and validation workflow for the silver detection dataset.
